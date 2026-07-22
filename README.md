@@ -63,15 +63,6 @@ I'm an Artificial Intelligence & Machine Learning student passionate about build
 - Software Engineering
 - AI Applications
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Jeensfer&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeensfer&layout=compact&theme=github_dark)
-
-![](https://streak-stats.demolab.com?user=Jeensfer&theme=github-dark)
 
 ---
 
