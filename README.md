@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jeensfer Jo</h1>
-<h3 align="center">B.Tech AIML Student | Python Developer | AI & Backend Enthusiast</h3>
+# Hi 👋, I'm Jeensfer Jo
 
-<p align="center">
+### B.Tech AIML Student | Python Developer | AI & Backend Enthusiast
+
 I'm an Artificial Intelligence & Machine Learning student passionate about building software, exploring machine learning, and developing real-world applications. I enjoy turning ideas into projects while continuously improving my problem-solving and software engineering skills.
-</p>
 
 ---
 
@@ -21,36 +20,33 @@ I'm an Artificial Intelligence & Machine Learning student passionate about build
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Libraries & Tools**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 **NearMe**
-> A location-based application currently under development.
+🔹 **[File-Handler](https://github.com/Jeensfer/File-Handler)**
+> JavaScript
 
-🔹 **REST Web**
-> Learning and implementing REST API concepts.
+🔹 **[SPAM-DETECTION](https://github.com/Jeensfer/SPAM-DETECTION)**
+> Python
 
-🔹 **Linear Regression from Scratch**
-> Implemented Linear Regression using Gradient Descent.
+🔹 **[ChatStudy](https://github.com/Jeensfer/ChatStudy)**
+> Python
 
-🔹 **Least Squares Best Fit Line**
-> Mathematical implementation of the Least Squares algorithm.
+🔹 **[Interactive](https://github.com/Jeensfer/Interactive)**
+> HTML, JavaScript
 
-🔹 **Hackathon Portfolio**
-> Projects and work prepared for hackathons.
+🔹 **[CO-Emissions-Prediction-Using-Fuel-Consumption-and-Engine-Parameters](https://github.com/Jeensfer/CO-Emissions-Prediction-Using-Fuel-Consumption-and-Engine-Parameters)**
+> Python
+
+🔹 **[ML--Weather-Prediction](https://github.com/Jeensfer/ML--Weather-Prediction)**
+> Python
 
 ---
 
@@ -63,12 +59,12 @@ I'm an Artificial Intelligence & Machine Learning student passionate about build
 - Software Engineering
 - AI Applications
 
-
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Jeensfer
+- GitHub: <https://github.com/Jeensfer>
+- LinkedIn: <https://www.linkedin.com/in/jeensfer-jo-002510378/>
 
 ---
 
