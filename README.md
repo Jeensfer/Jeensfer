@@ -39,8 +39,8 @@ I'm an Artificial Intelligence & Machine Learning student passionate about build
 🔹 **[ChatStudy](https://github.com/Jeensfer/ChatStudy)**
 > Python
 
-🔹 **[Interactive](https://github.com/Jeensfer/Interactive)**
-> HTML, JavaScript
+🔹 **[Currency Tracker](https://github.com/Jeensfer/Currency-Tracker.git)**
+> Python
 
 🔹 **[CO-Emissions-Prediction-Using-Fuel-Consumption-and-Engine-Parameters](https://github.com/Jeensfer/CO-Emissions-Prediction-Using-Fuel-Consumption-and-Engine-Parameters)**
 > Python
