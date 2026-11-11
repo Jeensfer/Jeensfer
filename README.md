@@ -36,7 +36,7 @@ I'm an Artificial Intelligence & Machine Learning student passionate about build
 🔹 **[SPAM-DETECTION](https://github.com/Jeensfer/SPAM-DETECTION)**
 > Python
 
-🔹 **[ChatStudy](https://github.com/Jeensfer/ChatStudy)**
+🔹 **[AI-PEEK-MODE](https://github.com/Jeensfer/AI-PEEK-MODE/tree/main)**
 > Python
 
 🔹 **[Currency Tracker](https://github.com/Jeensfer/Currency-Tracker.git)**
